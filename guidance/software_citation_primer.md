@@ -32,6 +32,8 @@ It may also be desirable to include information about three optional properties 
 
 ### Software Citation Examples
 
+(please note that these citations do not refer to real software, but indicate what is the information that would be available in a software citation)
+
 APA style:
 
  - Amet Corp. _Ametcon [Computer software]_. Retrieved from http://ametcon.com
